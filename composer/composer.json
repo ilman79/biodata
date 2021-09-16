@@ -1,0 +1,18 @@
+{
+    "name": "lenovo/composer",
+    "description": "cara penggunaan composer untuk pemula",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilmangifari",
+            "email": "gifariilman79@gmail.com"
+        }
+    ],
+    "require": {}
+}
